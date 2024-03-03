@@ -42,7 +42,3 @@ I am a Computer Systems Engineer focused on backend development with Python. I l
 I am currently learning more about Data Engineering and in the future I hope to create applications that can help and support people in different ways.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eagreda25)
-
-
-## Other Common Github Profile Sections
-🧠 I'm currently learning PySpark to updating my skill how backend developer and data engineer.
